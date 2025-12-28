@@ -1,0 +1,6 @@
+board:
+  name: mini_stm32h7r3
+  full_name: MiniSTM32H7R3 Core Board
+  vendor: weact
+  socs:
+    - name: stm32h7r3xx
